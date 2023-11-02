@@ -1,0 +1,42 @@
+.ql-snow {
+  color: black;
+  background-color: white;
+}
+
+.ql-toolbar {
+}
+
+.ql-container {
+  height: 8rem;
+}
+
+.editor span,
+.editor p {
+  color: white;
+}
+
+.editor p {
+}
+
+.editor h1 {
+  font-size: 45px;
+  color: white;
+}
+
+.editor h2 {
+  font-size: 35px;
+  color: white;
+}
+
+.editor h3 {
+  font-size: 26px;
+  color: white;
+}
+
+.editor h4 {
+  color: white;
+}
+
+h5 {
+  color: white;
+}
